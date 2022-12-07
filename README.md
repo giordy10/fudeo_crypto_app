@@ -1,0 +1,1 @@
+# fudeo_crypto_app
